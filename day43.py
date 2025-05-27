@@ -1,0 +1,1 @@
+#install all vartual  environment in python
