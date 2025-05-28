@@ -17,7 +17,7 @@ black = (0, 0, 0)
 snakegreen = (35, 45, 40)
 
 #Game Backgrounds
-# bg1 = pygame.image.load("Screen/bg.jpg")
+bg1 = pygame.image.load("Screen/bg.jpg")
 bg2 = pygame.image.load("Screen/bg2.jpg")
 intro = pygame.image.load("Screen/intro1.png")
 outro = pygame.image.load("Screen/outro.png")
